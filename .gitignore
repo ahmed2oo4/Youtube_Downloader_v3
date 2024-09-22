@@ -1,0 +1,13 @@
+# Visual Studio files
+.vs/
+*.sln
+*.user
+*.suo
+*.userprefs
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Packages
+[Pp]ackages/
